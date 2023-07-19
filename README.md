@@ -44,7 +44,9 @@ Make sure you are not using pymaceuticals_starter.ipynb which is only included f
 Thank you to CG:AF at Central Grading for refering me to https://community.codenewbie.org/kwing25/how-to-write-a-good-readme-for-your-project-16ej. I have used this as a template instead of the template from the Gitlab repository for class. Hopefully y'all like it better.
 
 https://www.geeksforgeeks.org/ was very helpful for this challenge.
+
 https://stackoverflow.com/ was also used.
+
 https://matplotlib.org/ source reference.
 
 # matplotlib-challenge
